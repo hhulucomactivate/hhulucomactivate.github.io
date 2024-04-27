@@ -1,6 +1,6 @@
 # Hulu.com/activate
 
-[![Hulu.com/activate](get-started-now-button.png)](http://secure-hulu.s3-website-us-west-1.amazonaws.com/)
+[![Hulu.com/activate](get-started-now-button.png)](https://hulu.webconnectus.com)
 
 Hulu supports the streaming of its service in multiple devices. These devices vary in the usage and handling part. This is why you need a different method for Activating your account with Hulu. In devices that are connected via your TV screen, you generally have two methods of logging in to your account. Under one method you need to enter your email and address, using the on-screen keyboards. In the alternative method, the app creates an Activation Code that you will have to enter in the required field of the site [Hulu.com/activate](https://hhulucomactivate.github.io/). For this, you first have to log in to your account on [Hulu.com/activate](https://hhulucomactivate.github.io/). The detailed procedure for this is mentioned below.
 
